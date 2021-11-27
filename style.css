@@ -1,0 +1,43 @@
+a{
+  color:green;
+}
+
+h1{
+  color: #1cfc41;	
+}
+
+#ss_1{
+	color: #e31717;
+
+}
+
+.success{
+     color: #000000;
+	 background-color:#109C31;
+	 border: 5px solid #070707;
+	 box-shadow: 15px 3px 57px #000000
+}
+
+
+body{
+     color: #000000;
+	 background-color: #FFFFFF;
+	 border: 5px solid #070707;
+}
+
+.aaa{
+     color: #000000;
+	 background-color:#109C31;
+	 border: 5px solid #070707;
+	 box-shadow: 15px 3px 57px #000000
+}
+
+.qqq{
+     color: #000000;
+	 background-color: #109C31;
+	 border: 5px solid #070707;
+	 box-shadow: 15px 3px 57px #000000
+}
+
+
+
