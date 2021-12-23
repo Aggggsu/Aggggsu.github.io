@@ -578,3 +578,32 @@ nav li:hover > .submenu {
 
 
 
+.textlive {
+	          background: linear-gradient(to bottom, #222 0%, #222 50%, #111 50%, #111 100%);
+			  text-transform: uppercase;
+			  color: transparent;
+			  color: fff;
+	          top: 4px;
+			  left: 4px;
+			  z-index: -1;
+			  background: linear-gradient(45deg,#ff0,#0f0,#f00,#00f,#0f0);
+
+}
+
+.textcolorjjj {
+                    background-color: lightgrey;
+                    color: blue;
+}
+
+
+ 
+.Rracivaff{
+    padding: 2px; /* Поля вокруг текста ссылки */
+    text-decoration: none; /* Убираем подчёркивание */
+   }
+.Rracivaff:hover {
+    background: #000000; /* Цвет фона при наведении на ссылку курсора */
+    color: yellow; /* Новый цвет текста */
+   }
+
+
